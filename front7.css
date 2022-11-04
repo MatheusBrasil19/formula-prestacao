@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(255, 196, 0);
+    color: rgb(207, 27, 27);
+    font-size: 20px;
+    text-align: center;
+    height: 200px;
+}
+
+h1{
+    margin-top: 50px;
+}
+
+.form{
+    margin-top: 50px;
+}
